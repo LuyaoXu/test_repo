@@ -5,5 +5,4 @@ Yeah ~ This is Tiwen Baobao desu desu!
 
 Hello from Branch Luyao
 
-This is Luyao again.
-
+This is Luyao again. Good night. 
